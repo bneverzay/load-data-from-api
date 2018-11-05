@@ -26,15 +26,27 @@
     },
     {
       "productId": "P005",
-      "productName": "เค้ก 3 ชั้น",
+      "productName": "เค้ก",
       "unitPrice": "200",
       "thumbnail": "/images/product/5.jpg"
     },
     {
       "productId": "P006",
-      "productName": "กาแฟ เฮลตี้ฟู้ด",
+      "productName": "กาแฟ",
       "unitPrice": "140",
       "thumbnail": "/images/product/6.jpg"
+    },
+    {
+      "productId": "P007",
+      "productName": "ต้มยำกุ้ง",
+      "unitPrice": "280",
+      "thumbnail": "/images/product/7.jpg"
+    },
+    {
+      "productId": "P008",
+      "productName": "หมูทอดกระเทียม",
+      "unitPrice": "100",
+      "thumbnail": "/images/product/8.jpg"
     }
   ],
   "orders": []
